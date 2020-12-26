@@ -1,12 +1,12 @@
-# About Vikram 
+# ABOUT VIKRAM
 
 Hai there!
 
-## Projects
+## PROJECTS
  
  Comming Soon!
  
-### Press
+### PRESS
 
 Comming Soon!
 
@@ -15,10 +15,10 @@ Programs and Graphs
 ```
 Stay tuned.
 
-### Industry Experiance
+### INDUSTRY EXPERIANCE
 
 Almost done.
 
-### Support or Contact
+### CONTACT
 
 I will be there.
